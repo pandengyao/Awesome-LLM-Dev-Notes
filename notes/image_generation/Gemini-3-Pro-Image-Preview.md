@@ -2,7 +2,7 @@
 
 > 本文基于 Nano Banana Pro（即 Gemini 3 Pro Image Preview）发布情况与模型实际体验进行的分析与思考。
 > **发布时间**: 2024-11-20 (与 Gemini 3 同期发布)
-> **原始文件**: [Gemini-3-Pro-Image-Preview_original.html](./Gemini-3-Pro-Image-Preview_original.html)
+> **原始文件**: [Gemini-3-Pro-Image-Preview.html](./Gemini-3-Pro-Image-Preview.html)
 
 ## 核心观点 (Key Takeaways)
 
